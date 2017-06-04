@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\android-switch-backport\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\switch_inner_holo_light.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\android-switch-backport\\build\\intermediates\\bundles\\debug\\res\\drawable\\switch_inner_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\android-switch-backport\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\switch_track_holo_dark.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\android-switch-backport\\build\\intermediates\\bundles\\debug\\res\\drawable\\switch_track_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\android-switch-backport\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\switch_inner_holo_dark.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\android-switch-backport\\build\\intermediates\\bundles\\debug\\res\\drawable\\switch_inner_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\android-switch-backport\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\switch_track_holo_light.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\android-switch-backport\\build\\intermediates\\bundles\\debug\\res\\drawable\\switch_track_holo_light.xml"
+    }
+]

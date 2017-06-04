@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/sarch_box_design"
+        android:layout_margin="@dimen/feedback_padding"
+        android:padding="@dimen/dimen_fp_margin" >
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_history_one"
+            android:layout_marginStart="@dimen/dimen_history_one"
+            android:layout_marginTop="@dimen/dimen_history_margin_top"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:orientation="vertical" >
+
+            <com.virtugos.uberapp.driver.widget.MyFontTextView
+                android:id="@+id/dateFrom"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/text_from"
+                android:textColor="@color/history_light"
+                android:textSize="@dimen/dimen_history_from_textsize" />
+
+            <com.virtugos.uberapp.driver.widget.MyFontTextView
+                android:id="@+id/fromDateBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/dateFrom"
+                android:drawableEnd="@drawable/date"
+                android:drawablePadding="3dp"
+                android:drawableRight="@drawable/date"
+                android:gravity="center"
+                android:text="@string/text_select_date"
+                android:textColor="@color/theme_color"
+                android:textSize="@dimen/dimen_history_from_textsize" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+             android:layout_marginTop="@dimen/dimen_history_margin_top"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:orientation="vertical" >
+
+            <com.virtugos.uberapp.driver.widget.MyFontTextView
+                android:id="@+id/dateTo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/text_to"
+                android:textColor="@color/history_light"
+                android:textSize="@dimen/dimen_history_from_textsize" />
+
+            <com.virtugos.uberapp.driver.widget.MyFontTextView
+                android:id="@+id/toDateBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/dateTo"
+                android:drawableEnd="@drawable/date"
+                android:drawablePadding="3dp"
+                android:drawableRight="@drawable/date"
+                android:gravity="center"
+                android:text="@string/text_select_date"
+                android:textColor="@color/theme_color"
+                android:textSize="@dimen/dimen_history_from_textsize" />
+        </RelativeLayout>
+
+        <ImageButton
+            android:id="@+id/btnSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@null"
+            android:padding="@dimen/feedback_padding"
+            android:src="@drawable/sarch"
+            android:text="Search" />
+    </LinearLayout>
+
+    <com.hb.views.PinnedSectionListView
+        android:id="@+id/lvHistory"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:visibility="gone" >
+    </com.hb.views.PinnedSectionListView>
+
+    <ImageView
+        android:id="@+id/tvHistoryEmpty"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@null"
+        android:layout_gravity="center"
+        android:src="@drawable/no_items" />
+
+</LinearLayout>

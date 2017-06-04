@@ -1,0 +1,536 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:id="@+id/relTop"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/profile_image_layout"
+        android:background="@drawable/bg_profile"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/profile_background"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/relProfileImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <com.mikhaellopez.circularimageview.CircularImageView
+                    android:id="@+id/ivProfileProfile"
+                    android:layout_width="@dimen/dimen_profile_image_width"
+                    android:layout_height="@dimen/dimen_profile_image_height"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="@dimen/dimen_profile_margin_left"
+                    android:layout_marginStart="@dimen/dimen_profile_margin_left"
+                    android:src="@drawable/user"
+                    app:border_color="@color/white"
+                    app:border_width="2dp" />
+
+                <include
+                    layout="@layout/progressbar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <com.virtugos.uberapp.driver.widget.MyFontTextView
+                    android:id="@+id/tvProfileFName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/activity_margin_register"
+                    android:layout_marginRight="@dimen/activity_margin_register"
+                    android:background="@null"
+                    android:singleLine="true"
+                    android:text="@string/text_fname"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/size_name" />
+
+                <com.virtugos.uberapp.driver.widget.MyFontTextView
+                    android:id="@+id/tvProfileLName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@null"
+                    android:singleLine="true"
+                    android:text="@string/text_lname"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/size_name" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/relTop">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dimen_profile_margin_left"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/dimen_profile_padding_bottom"
+            android:paddingTop="@dimen/dimen_profile_padding">
+
+            <!-- <LinearLayout -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="wrap_content" > -->
+
+            <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:text="@string/text_fname"
+                android:textAllCaps="true"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/color_text_label"
+                android:textSize="@dimen/size_label" />
+
+            <com.virtugos.uberapp.driver.widget.MyFontEdittextView
+                android:id="@+id/etProfileFName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:background="@null"
+                android:ems="10"
+                android:hint="@string/text_fname_hint"
+                android:singleLine="true"
+                android:textColor="@drawable/color"
+                android:textSize="@dimen/size_general" />
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="0.5dp"
+                android:layout_marginBottom="@dimen/dimen_fp_margin"
+                android:layout_marginTop="@dimen/dimen_fp_margin"
+                android:background="@color/light_gray_full" />
+
+            <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:text="@string/text_lname"
+                android:textAllCaps="true"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/color_text_label"
+                android:textSize="@dimen/size_label" />
+
+            <com.virtugos.uberapp.driver.widget.MyFontEdittextView
+                android:id="@+id/etProfileLName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:background="@null"
+                android:ems="10"
+                android:hint="@string/text_lname_hint"
+                android:singleLine="true"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@drawable/color"
+                android:textSize="@dimen/size_general" />
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="0.5dp"
+                android:layout_marginBottom="@dimen/dimen_fp_margin"
+                android:layout_marginTop="@dimen/dimen_fp_margin"
+                android:background="@color/light_gray_full" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/text_email"
+                        android:textAllCaps="true"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textColor="@color/color_text_label"
+                        android:textSize="@dimen/size_label" />
+
+                    <com.virtugos.uberapp.driver.widget.MyFontEdittextView
+                        android:id="@+id/etProfileEmail"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:background="@null"
+                        android:hint="@string/text_email_hint"
+                        android:inputType="textEmailAddress"
+                        android:singleLine="true"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@drawable/color"
+                        android:textSize="@dimen/size_general" />
+                </LinearLayout>
+
+                <!--<ImageView-->
+                <!--android:id="@+id/btnProfileEmailInfo"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="center_vertical"-->
+                <!--android:background="@null"-->
+                <!--android:src="@drawable/info" />-->
+            </LinearLayout>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="0.5dp"
+                android:layout_marginBottom="@dimen/dimen_fp_margin"
+                android:layout_marginTop="@dimen/dimen_fp_margin"
+                android:background="@color/light_gray_full" />
+
+            <LinearLayout
+                android:id="@+id/llCurrentPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                    android:layout_marginRight="@dimen/activity_horizontal_margin"
+                    android:text="@string/text_pass_current"
+                    android:textAllCaps="true"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/color_text_label"
+                    android:textSize="@dimen/size_label" />
+
+                <com.virtugos.uberapp.driver.widget.MyFontEdittextView
+                    android:id="@+id/etProfileCurrentPassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                    android:layout_marginRight="@dimen/activity_horizontal_margin"
+                    android:background="@null"
+                    android:ems="10"
+                    android:hint="@string/text_pass_current_hint"
+                    android:inputType="textPassword"
+                    android:singleLine="true"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@drawable/color"
+                    android:textSize="@dimen/size_general" />
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="0.5dp"
+                    android:layout_marginBottom="@dimen/dimen_fp_margin"
+                    android:layout_marginTop="@dimen/dimen_fp_margin"
+                    android:background="@color/light_gray_full" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llNewPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                    android:layout_marginRight="@dimen/activity_horizontal_margin"
+                    android:text="@string/text_pass_new"
+                    android:textAllCaps="true"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/color_text_label"
+                    android:textSize="@dimen/size_label" />
+
+                <com.virtugos.uberapp.driver.widget.MyFontEdittextView
+                    android:id="@+id/etProfileNewPassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                    android:layout_marginRight="@dimen/activity_horizontal_margin"
+                    android:background="@null"
+                    android:ems="10"
+                    android:hint="@string/text_pass_new_hint"
+                    android:inputType="textPassword"
+                    android:singleLine="true"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@drawable/color"
+                    android:textSize="@dimen/size_general" />
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="0.5dp"
+                    android:layout_marginBottom="@dimen/dimen_fp_margin"
+                    android:layout_marginTop="@dimen/dimen_fp_margin"
+                    android:background="@color/light_gray_full" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llConfirmPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                    android:layout_marginRight="@dimen/activity_horizontal_margin"
+                    android:text="@string/text_pass_retype"
+                    android:textAllCaps="true"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/color_text_label"
+                    android:textSize="@dimen/size_label" />
+
+                <com.virtugos.uberapp.driver.widget.MyFontEdittextView
+                    android:id="@+id/etProfileRetypePassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                    android:layout_marginRight="@dimen/activity_horizontal_margin"
+                    android:background="@null"
+                    android:ems="10"
+                    android:hint="@string/text_pass_retype_hint"
+                    android:inputType="textPassword"
+                    android:singleLine="true"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@drawable/color"
+                    android:textSize="@dimen/size_general" />
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="0.5dp"
+                    android:layout_marginBottom="@dimen/dimen_fp_margin"
+                    android:layout_marginTop="@dimen/dimen_fp_margin"
+                    android:background="@color/light_gray_full" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llNumber"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                    android:layout_marginRight="@dimen/activity_horizontal_margin"
+                    android:text="@string/text_number"
+                    android:textAllCaps="true"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/color_text_label"
+                    android:textSize="@dimen/size_label" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <com.virtugos.uberapp.driver.widget.MyFontTextView
+                        android:id="@+id/tvProfileCountryCode"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textSize="@dimen/size_general"
+                        android:visibility="gone" />
+
+                    <com.virtugos.uberapp.driver.widget.MyFontEdittextView
+                        android:id="@+id/etProfileNumber"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                        android:layout_marginRight="@dimen/activity_horizontal_margin"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:ems="10"
+                        android:hint="@string/text_number_hint"
+                        android:inputType="number"
+                        android:singleLine="true"
+                        android:textColor="@drawable/color"
+                        android:textSize="@dimen/size_general" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="0.5dp"
+                    android:layout_marginBottom="@dimen/dimen_fp_margin"
+                    android:layout_marginTop="@dimen/dimen_fp_margin"
+                    android:background="@color/light_gray_full" />
+            </LinearLayout>
+
+            <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:text="@string/text_address"
+                android:textAllCaps="true"
+                android:textColor="@color/color_text_label"
+                android:textSize="@dimen/size_label" />
+
+            <com.virtugos.uberapp.driver.widget.MyFontEdittextView
+                android:id="@+id/etProfileAddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:background="@null"
+                android:ems="10"
+                android:hint="@string/text_address"
+                android:singleLine="true"
+                android:textColor="@drawable/color"
+                android:textSize="@dimen/size_general" />
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="0.5dp"
+                android:layout_marginBottom="@dimen/dimen_fp_margin"
+                android:layout_marginTop="@dimen/dimen_fp_margin"
+                android:background="@color/light_gray_full" />
+
+            <!-- <com.automated.taxinow.driver.widget.MyFontTextViewMedium -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_marginLeft="@dimen/activity_horizontal_margin" -->
+            <!-- android:layout_marginRight="@dimen/activity_horizontal_margin" -->
+            <!-- android:text="@string/text_bio" -->
+            <!-- android:textAllCaps="true" -->
+            <!-- android:textColor="@color/color_text_label" -->
+            <!-- android:textSize="@dimen/size_label" /> -->
+
+
+            <!-- <com.automated.taxinow.driver.widget.MyFontEdittextView -->
+            <!-- android:id="@+id/etProfileBio" -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_marginLeft="@dimen/activity_horizontal_margin" -->
+            <!-- android:layout_marginRight="@dimen/activity_horizontal_margin" -->
+            <!-- android:background="@null" -->
+            <!-- android:ems="10" -->
+            <!-- android:hint="@string/text_bio" -->
+            <!-- android:singleLine="true" -->
+            <!-- android:textColor="@drawable/color" -->
+            <!-- android:textSize="@dimen/size_general" /> -->
+
+
+            <!-- <ImageView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_marginBottom="@dimen/dimen_fp_margin" -->
+            <!-- android:layout_marginTop="@dimen/dimen_fp_margin" -->
+            <!-- android:src="@drawable/divider_register" /> -->
+
+            <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:text="@string/text_zip"
+                android:textAllCaps="true"
+                android:textColor="@color/color_text_label"
+                android:textSize="@dimen/size_label" />
+
+            <com.virtugos.uberapp.driver.widget.MyFontEdittextView
+                android:id="@+id/etProfileZipCode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:background="@null"
+                android:ems="10"
+                android:hint="@string/text_zip"
+                android:singleLine="true"
+                android:textColor="@drawable/color"
+                android:textSize="@dimen/size_general" />
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="0.5dp"
+                android:layout_marginBottom="@dimen/dimen_fp_margin"
+                android:layout_marginTop="@dimen/dimen_fp_margin"
+                android:background="@color/light_gray_full" />
+
+            <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:text="@string/text_taxi_model"
+                android:textAllCaps="true"
+                android:textColor="@color/color_text_label"
+                android:textSize="@dimen/size_label" />
+            .
+
+            <com.virtugos.uberapp.driver.widget.MyFontEdittextView
+                android:id="@+id/etProfileModel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:background="@null"
+                android:ems="10"
+                android:hint="@string/text_taxi_model"
+                android:singleLine="true"
+                android:textColor="@drawable/color"
+                android:textSize="@dimen/size_general" />
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="0.5dp"
+                android:layout_marginBottom="@dimen/dimen_fp_margin"
+                android:layout_marginTop="@dimen/dimen_fp_margin"
+                android:background="@color/light_gray_full" />
+
+            <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:text="@string/text_taxi_number"
+                android:textAllCaps="true"
+                android:textColor="@color/color_text_label"
+                android:textSize="@dimen/size_label" />
+            .
+
+            <com.virtugos.uberapp.driver.widget.MyFontEdittextView
+                android:id="@+id/etProfileVehicleNo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:background="@null"
+                android:ems="10"
+                android:hint="@string/text_taxi_number"
+                android:singleLine="true"
+                android:textColor="@drawable/color"
+                android:textSize="@dimen/size_general" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

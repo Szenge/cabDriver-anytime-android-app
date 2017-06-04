@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_blue_focused.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_loginbutton_silver.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_loginbutton_silver.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_list_divider.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_list_divider.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_inner_holo_light.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\org.jraf\\android-switch-backport\\1.4.0\\res\\drawable\\switch_inner_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_selector.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_profile_picture_blank_square.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_profile_picture_blank_portrait.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_shadow.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\src\\main\\res\\drawable\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customprogress.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\src\\main\\res\\drawable\\customprogress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ub_button_mylocation.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\src\\main\\res\\drawable\\ub_button_mylocation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_selector_background_transition.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_selector_background_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ellipse_contacting_design.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\src\\main\\res\\drawable\\ellipse_contacting_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_inner_holo_dark.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\org.jraf\\android-switch-backport\\1.4.0\\res\\drawable\\switch_inner_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_blue_pressed.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_pressed.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_blue_normal.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_holo_dark.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\org.jraf\\android-switch-backport\\1.4.0\\res\\drawable\\switch_track_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\src\\main\\res\\drawable\\color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_check_off.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_check_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_logo.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_close.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_top_button.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_top_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sound_selector.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\src\\main\\res\\drawable\\sound_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\crop__texture.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\cropLibrary\\unspecified\\res\\drawable\\crop__texture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_selector_disabled.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_selector_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_grey_pressed.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_check.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_place_default_icon.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_place_default_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_selectall_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_focused.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_copy_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_check_on.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_check_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_paste_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_paste_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_holo_light.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\org.jraf\\android-switch-backport\\1.4.0\\res\\drawable\\switch_track_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_inverse_icon.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customprogressred.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\src\\main\\res\\drawable\\customprogressred.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_grey_focused.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_top_background.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_top_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_longpressed.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_longpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_item_background.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sarch_box_design.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\src\\main\\res\\drawable\\sarch_box_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_pickup_design.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\src\\main\\res\\drawable\\dot_pickup_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\crop__selectable_background.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\cropLibrary\\unspecified\\res\\drawable\\crop__selectable_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_profile_default_icon.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_profile_default_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_grey_normal.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_share_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_cut_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_cut_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_on_mtrl.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_off_mtrl.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_list_section_header_background.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_list_section_header_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_blue.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ub_star_feedback.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\src\\main\\res\\drawable\\ub_star_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_top_button.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\Cab Anytime Driver\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_top_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\org.jraf\\android-switch-backport\\1.4.0\\res\\drawable-hdpi-v16\\switch_thumb_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_activated_holo_light.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\org.jraf\\android-switch-backport\\1.4.0\\res\\drawable-hdpi-v16\\switch_thumb_activated_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_holo_light.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\org.jraf\\android-switch-backport\\1.4.0\\res\\drawable-hdpi-v16\\switch_thumb_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_holo_dark.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\org.jraf\\android-switch-backport\\1.4.0\\res\\drawable-hdpi-v16\\switch_thumb_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\org.jraf\\android-switch-backport\\1.4.0\\res\\drawable-hdpi-v16\\switch_thumb_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_activated_holo_dark.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\org.jraf\\android-switch-backport\\1.4.0\\res\\drawable-hdpi-v16\\switch_thumb_activated_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\org.jraf\\android-switch-backport\\1.4.0\\res\\drawable-hdpi-v16\\switch_thumb_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\org.jraf\\android-switch-backport\\1.4.0\\res\\drawable-hdpi-v16\\switch_thumb_disabled_holo_dark.9.png"
+    }
+]

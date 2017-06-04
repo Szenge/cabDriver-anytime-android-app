@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlPopupWindow"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingRight="29dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/popup" >
+
+        <com.virtugos.uberapp.driver.widget.MyFontTextView
+            android:id="@+id/tvPopupMsg"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="@string/text_regemail_popup"
+            android:paddingTop="10dp"
+            android:textColor="@color/color_app_gray"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+</RelativeLayout>

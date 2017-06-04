@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-w1280dp-v13\\values-sw720dp-w1280dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\Cesar\\Documents\\Github\\Cab Anytime Driver\\app\\build\\intermediates\\exploded-aar\\org.jraf\\android-switch-backport\\1.4.0\\res\\values-sw720dp-w1280dp-v13\\values-sw720dp-w1280dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

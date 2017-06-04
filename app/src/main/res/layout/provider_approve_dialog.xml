@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="@dimen/ellipse_contacting_width"
+        android:layout_height="@dimen/ellipse_contacting_width"
+        android:background="@drawable/ellipse_contacting_design"
+        android:gravity="center"
+        android:minHeight="0dp"
+        android:minWidth="0dp"
+        android:orientation="vertical">
+
+        <com.virtugos.uberapp.driver.widget.MyFontTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_fp_margin_top"
+            android:layout_marginRight="@dimen/dimen_fp_margin_top"
+            android:gravity="center"
+            android:text="@string/text_approve"
+            android:textColor="@color/white"
+            android:textSize="@dimen/size_general_small"/>
+
+        <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dimen_fp_margin"
+            android:layout_marginLeft="@dimen/dimen_fp_margin"
+            android:layout_marginRight="@dimen/dimen_fp_margin"
+            android:layout_marginTop="@dimen/dimen_fp_margin"
+            android:gravity="center"
+            android:text="@string/text_approve_by_admin"
+            android:textColor="@color/white"
+            android:textSize="@dimen/size_general"/>
+
+        <com.virtugos.uberapp.driver.widget.MyFontTextView
+            android:id="@+id/tvApprovedClose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/arrwo_notification"
+            android:padding="@dimen/activity_margin_register"/>
+    </LinearLayout>
+
+</RelativeLayout>

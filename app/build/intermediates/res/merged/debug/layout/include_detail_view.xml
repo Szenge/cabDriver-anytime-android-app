@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/includeDriver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingBottom="@dimen/dimen_fp_margin"
+                android:paddingLeft="@dimen/margin_legt_name_star"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/dimen_fp_margin" >
+
+                <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                    android:id="@+id/tvClientName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Medium Text"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/size_general" />
+
+                <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                    android:id="@+id/tvClientRating"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right|center_vertical"
+                    android:layout_marginLeft="@dimen/dimen_fp_margin_top"
+                    android:layout_toRightOf="@+id/dividerRate"
+                    android:drawableLeft="@drawable/rate_star"
+                    android:drawablePadding="@dimen/activity_margin_register"
+                    android:gravity="center_horizontal"
+                    android:text="0"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/size_general" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="@color/light_gray_full"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_margin_register"
+                android:layout_marginLeft="@dimen/margin_legt_name_star"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/dimen_fp_margin_top"
+                    android:orientation="vertical" >
+
+                    <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                        android:id="@+id/titleTime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/feedback_padding"
+                        android:text="@string/text_est_time"
+                        android:textColor="@color/color_text_label"
+                        android:textSize="@dimen/size_label" />
+
+                    <com.virtugos.uberapp.driver.widget.MyFontTextView
+                        android:id="@+id/tvJobTime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/color_text_dark"
+                        android:textSize="@dimen/size_general_small" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+                        android:id="@+id/titleDistance"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/feedback_padding"
+                        android:text="@string/text_est_distance"
+                        android:textColor="@color/color_text_label"
+                        android:textSize="@dimen/size_label" />
+
+                    <com.virtugos.uberapp.driver.widget.MyFontTextView
+                        android:id="@+id/tvJobDistance"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/color_text_dark"
+                        android:textSize="@dimen/size_general_small" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/imgLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="@dimen/activity_margin_register"
+            android:layout_marginLeft="@dimen/dimen_margin_left_photo"
+            android:layout_marginTop="@dimen/activity_margin_register" >
+
+            <com.mikhaellopez.circularimageview.CircularImageView
+                android:id="@+id/ivClientImage"
+                android:layout_width="@dimen/driver_photo_size"
+                android:layout_height="@dimen/driver_photo_size"
+                android:layout_centerInParent="true"
+                android:src="@drawable/user" />
+
+            <include
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                layout="@layout/progressbar" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/light_gray_full"/>
+
+    <com.virtugos.uberapp.driver.widget.MyFontTextView
+        android:id="@+id/tvDestinationAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/location_dot_runtime"
+        android:drawablePadding="@dimen/activity_margin_register"
+        android:gravity="center_vertical"
+        android:singleLine="true"
+        android:paddingBottom="@dimen/activity_margin_register"
+        android:paddingTop="@dimen/activity_margin_register"
+        android:textColor="@color/color_text_dark"
+        android:textSize="@dimen/size_general"
+        android:visibility="visible" />
+
+</LinearLayout>

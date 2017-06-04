@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res"
+    android:id="@+id/relMain"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/llTop"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/white"
+            android:orientation="horizontal" >
+
+            <ImageButton
+                android:id="@+id/btnActionMenu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|left"
+                android:background="@null"
+                android:padding="@dimen/feedback_margin_one"
+                android:src="@drawable/menu"
+                android:visibility="visible" />
+
+            <com.virtugos.uberapp.driver.widget.MyFontTextView
+                android:id="@+id/tvTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1"
+                android:text="@string/app_name"
+                android:textColor="@color/color_text_dark"
+                android:textSize="@dimen/size_general"
+                android:visibility="visible" />
+
+            <!--<com.ondemandbay.taxianytime.driver.widget.MyFontButton-->
+                <!--android:id="@+id/btnActionInfo"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="center_vertical|right"-->
+                <!--android:layout_marginRight="@dimen/activity_margin_register"-->
+                <!--android:background="@drawable/info"-->
+                <!--android:minHeight="0dp"-->
+                <!--android:minWidth="0dp"-->
+                <!--android:paddingRight="5dp"-->
+                <!--android:visibility="visible" />-->
+
+            <ImageButton
+                android:id="@+id/btnEditProfile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|right"
+                android:background="@null"
+                android:padding="@dimen/feedback_margin_one"
+                android:src="@drawable/right"
+                android:visibility="gone" />
+
+            <com.virtugos.uberapp.driver.widget.MyFontTextView
+                android:id="@+id/tvPaymentStatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|right"
+                android:drawableLeft="@drawable/cash"
+                android:text="@string/text_type_cash"
+                android:textColor="@color/color_text_dark"
+                android:textSize="@dimen/size_general"
+                android:visibility="gone" />
+
+            <ImageButton
+                android:id="@+id/btnActionNotification"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|right"
+                android:background="@null"
+                android:padding="@dimen/feedback_margin_one"
+                android:src="@drawable/back" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

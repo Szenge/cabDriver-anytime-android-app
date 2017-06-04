@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="@color/white">
+
+    <com.virtugos.uberapp.driver.widget.MyFontTextViewTitle
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_bill_line"
+        android:textColor="@color/black_label"
+        android:textSize="@dimen/fp_font_size"
+        android:text="@string/text_important_note_title"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="@dimen/dimen_bill_line"
+        android:orientation="vertical">
+
+    <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_fp_margin_top"
+        android:text="@string/text_important_note1"
+        android:textColor="@color/black_label"
+        android:textSize="@dimen/size_general_small"/>
+
+    <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_fp_margin_top"
+        android:text="@string/text_important_note2"
+        android:textColor="@color/black_label"
+        android:textSize="@dimen/size_general_small"/>
+
+    <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_fp_margin_top"
+        android:text="@string/text_important_note3"
+        android:textColor="@color/black_label"
+        android:textSize="@dimen/size_general_small"/>
+
+    <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_fp_margin_top"
+        android:text="@string/text_important_link"
+        android:textColor="@color/black_label"
+        android:textSize="@dimen/size_general_small"/>
+
+    <com.virtugos.uberapp.driver.widget.MyFontTextViewMedium
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_fp_margin_top"
+        android:text="@string/text_important_note4"
+        android:textColor="@color/black_label"
+        android:textSize="@dimen/size_general_small"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnOkDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:paddingTop="@dimen/dimen_fp_margin"
+        android:paddingBottom="@dimen/dimen_fp_margin"
+        android:text="@string/text_ok"
+        android:textSize="@dimen/size_general_small"
+        android:background="@color/theme"
+        android:textColor="@color/white"/>
+</LinearLayout>

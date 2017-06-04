@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:gravity="left"
+    android:orientation="vertical" >
+
+    <com.virtugos.uberapp.driver.widget.MyFontTextView
+        android:id="@+id/tvDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/section_box_history_color"
+        android:paddingBottom="@dimen/signin_button_padding"
+        android:paddingTop="@dimen/signin_button_padding"
+        android:paddingLeft="@dimen/activity_margin_mainscreen"
+        android:textAllCaps="true"
+        android:text="vgdssgvsv"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/size_label"
+        android:textColor="@color/color_text_dark" />
+
+</LinearLayout>
